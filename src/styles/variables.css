@@ -1,0 +1,16 @@
+:root {
+  --color-red: #e31c24;
+  --color-red-dark: #c4161d;
+  --color-ink: #161616;
+  --color-text: #4d4d4d;
+  --color-muted: #6d6d6d;
+  --color-line: #ececec;
+  --color-soft: #f7f7f7;
+  --color-white: #ffffff;
+  --color-whatsapp: #25d366;
+  --header-height: 84px;
+  --container: 1140px;
+  --font-sans: 'Montserrat', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  --shadow: 0 16px 40px rgba(0, 0, 0, 0.12);
+  --radius: 28px;
+}
